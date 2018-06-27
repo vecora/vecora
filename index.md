@@ -5,19 +5,14 @@
 layout: home
 ---
 
-# Content to come
-* Workflow
-  * Creating repositories
-    * Naming
-  * Issues and project boards
+[Vecora](https://vecora.no)
+
+[Vecora at GitHub](https://github.com/vecora)
+
+# TOC
+
+* [Workflow]({% link workflow/index.md %})
 * [Style Guides]({% link style-guides/index.md %})
-* Craft
-  * Plugins
-  * Sites
-    * Site specific plugins
-    * Template files
-* QA
-  * Favicons
-  * Accessibility
-* Servers
-  * Requirements
+* [Craft]({% link craft/index.md %})
+* [Quality assurance]({% link quality-assurance/index.md %})
+* [Servers]({% link servers/index.md %})
