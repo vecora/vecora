@@ -4,10 +4,13 @@
 
 // Minima defaults https://github.com/jekyll/minima/blob/master/_sass/minima.scss
 
-$text-color: white;
+$text-color: rgb(173,173,173);
+$background-color: #1f1f1f;
+$brand-color: rgb(235, 51, 99);
 
 @import "minima";
 
-body {
-  background-color: black;
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  color: white;
 }
