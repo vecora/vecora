@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Vecora on GitHub
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  [Vecora is a digital agency](https://vecora.no) based in beautiful Norway.
+  These pages contain guidlines for ourselves and outside developers we work
+  with. All creative works is our copyright, with limited rights transferred to
+  our clients. All code is licensed project by project with a mix of free, open
+  source, and commercial licenses. Vecora&reg; is a registered trademark in
+  EU and other countries. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  vecora
 
 # Build settings
 markdown: kramdown
