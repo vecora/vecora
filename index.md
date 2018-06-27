@@ -10,11 +10,14 @@ layout: home
   * Creating repositories
     * Naming
   * Issues and project boards
-* Style Guides
+* [Style Guides]({% link style-guides/index.md %})
 * Craft
-  * Plugin
+  * Plugins
   * Sites
     * Site specific plugins
+    * Template files
 * QA
   * Favicons
   * Accessibility
+* Servers
+  * Requirements
