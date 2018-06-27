@@ -9,6 +9,8 @@ layout: home
 
 [Vecora at GitHub](https://github.com/vecora)
 
+[These guidlines on GitHub](https://github.com/vecora/vecora.github.io)
+
 # TOC
 
 * [Workflow]({% link workflow/index.md %})
