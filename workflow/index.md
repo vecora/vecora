@@ -19,6 +19,12 @@ Brand guides should be prefixed `bg-` followed by a lowercase company name (with
 
 ## Methodology
 
+## Coding conventions
+
+No tab. Two spaces.
+
+For JS you should follow [Douglas Crockford's coding conventions](https://crockford.com/javascript/code.html).
+
 ## More
 * Markdown
 * Jekyll
