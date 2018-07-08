@@ -23,6 +23,8 @@ Brand guides should be prefixed `bg-` followed by a lowercase company name (with
 
 No tab. Two spaces.
 
+No self-closing XML tags. We do HTML5!
+
 For JS you should follow [Douglas Crockford's coding conventions](https://crockford.com/javascript/code.html).
 
 ## More
