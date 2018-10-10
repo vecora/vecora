@@ -25,6 +25,8 @@ No tab. Two spaces.
 
 No self-closing XHTML tags. XHTML is dead.
 
+HTML classes use kebab case. HTML ids use camel case.
+
 For JS you should follow [Douglas Crockford's coding conventions](https://crockford.com/javascript/code.html).
 
 ## More
